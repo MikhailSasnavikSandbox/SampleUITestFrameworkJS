@@ -1,0 +1,24 @@
+{
+  "name": "SampleUITestFramework",
+  "version": "1.0.0",
+  "description": "SampleUITestFramework",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikhailSasnavikSandbox/SampleUITestFrameworkJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikhailSasnavikSandbox/SampleUITestFrameworkJS/issues"
+  },
+  "homepage": "https://github.com/MikhailSasnavikSandbox/SampleUITestFrameworkJS#readme",
+  "dependencies": {
+    "chromedriver": "^75.0.0",
+    "nightwatch": "^1.1.12"
+  }
+}
